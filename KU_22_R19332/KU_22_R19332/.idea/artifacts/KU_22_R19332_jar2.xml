@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KU_22_R19332:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/KU_22_R19332_jar2</output-path>
+    <root id="archive" name="KU_22_R19332.jar">
+      <element id="module-output" name="KU_22_R19332" />
+    </root>
+  </artifact>
+</component>
